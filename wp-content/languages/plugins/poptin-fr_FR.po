@@ -1,0 +1,122 @@
+# Translation of Plugins - Pop ups, WordPress Exit Intent Popup, Email Pop Up, Inline Contact Form Builder – Poptin - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Pop ups, WordPress Exit Intent Popup, Email Pop Up, Inline Contact Form Builder – Poptin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-07 12:37:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Pop ups, WordPress Exit Intent Popup, Email Pop Up, Inline Contact Form Builder – Poptin - Stable (latest release)\n"
+
+#: views/poptin_admin_view.php:117
+msgid "Where is my user ID?"
+msgstr "Où est mon ID d’utilisateur ?"
+
+#: views/poptin_admin_view.php:109
+msgid "Enter your user ID"
+msgstr "Saisissez votre ID d’utilisateur"
+
+#. Author URI of the plugin
+msgid "https://www.poptin.com"
+msgstr "https://www.poptin.com"
+
+#: views/poptin_admin_view.php:247
+msgid "Visit us at "
+msgstr "Rendez-nous visite sur"
+
+#: views/poptin_admin_view.php:223
+msgid "Marketing manager, Engie"
+msgstr "\tResponsable marketing, Engie"
+
+#: views/poptin_admin_view.php:222
+msgid "Michael Voiskoun"
+msgstr "Michael Voiskoun"
+
+#: views/poptin_admin_view.php:212
+msgid "CEO, Purr Traffic"
+msgstr "PDG, Purr Traffic"
+
+#: views/poptin_admin_view.php:211
+msgid "Deepak Shukla"
+msgstr "Deepak Shukla"
+
+#: views/poptin_admin_view.php:201
+msgid "CEO, Walls.io"
+msgstr "PDG, Walls.io"
+
+#: views/poptin_admin_view.php:200
+msgid "Michael Kamleitner"
+msgstr "Michael Kamleitner"
+
+#: views/poptin_admin_view.php:140
+msgid "Here’s What Poptin Can Do For You"
+msgstr "Voici ce que Poptin peut faire pour vous"
+
+#: views/poptin_admin_view.php:127
+msgid "Create your first poptin with ease"
+msgstr "Créez votre premier poptin avec facilité"
+
+#: views/poptin_admin_view.php:62
+msgid "Deactivate Poptin"
+msgstr "Désactiver Poptin"
+
+#: views/poptin_admin_view.php:61
+msgid "Go to Dashboard"
+msgstr "Aller au tableau de bord"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: poptin.php:408
+msgid "Poptin"
+msgstr "Poptin"
+
+#. Description of the plugin
+msgid "Poptin is the best free lead capture platform for your website. Create targeted beautiful popups and options in less than 2 minutes with ease."
+msgstr "Poptin est la meilleure plateforme gratuite de capture de prospects pour votre site web. Créez de belles fenêtres surgissantes ciblées et gérez les options en moins de 2 minutes en toute simplicité."
+
+#: views/poptin_admin_view.php:224
+msgid "It's super easy to use, doesn't require any prior coding skill. The team at Poptin is really helpful, providing great support, and adding always more features!"
+msgstr "Super facile à utiliser, ne nécessite aucune connaissance en développement. L’équipe de Poptin est vraiment utile, elle fournit un excellent support et ajoute toujours plus de fonctionnalités !"
+
+#: views/poptin_admin_view.php:213
+msgid "Been v.impressed with Poptin and the team behind it so far. Great responses times from support. The roadmap looks great. I highly recommend."
+msgstr "J'ai été très impressionné par Poptin et l’équipe qui le soutient jusqu’à présent. Un temps de réponse exceptionnel de la part du support. La feuille de route a l’air géniale. Je vous le recommande fortement."
+
+#: views/poptin_admin_view.php:202
+msgid "Getting started with poptin was a breeze – we've implemented the widget and connected it to our newsletter within minutes. Our conversion rate skyrocketed!"
+msgstr "Démarrer avec Poptin était un jeu d’enfant - nous avons implémenté le widget et l’avons connecté à notre newsletter en quelques minutes. Notre taux de conversion a grimpé en flèche !"
+
+#: views/poptin_admin_view.php:182
+msgid "Reduce shopping cart abandonment"
+msgstr "Réduire l’abandon du panier d'achat"
+
+#: views/poptin_admin_view.php:161
+msgid "Get more email subscribers"
+msgstr "Obtenir plus d'abonnés à vos e-mails"
+
+#: views/poptin_admin_view.php:97
+msgid "Sign Up"
+msgstr "S’inscrire"
+
+#: views/poptin_admin_view.php:82
+msgid "Already have an account?"
+msgstr "Vous avez déjà un compte ?"
+
+#: views/poptin_admin_view.php:118
+msgid "Connect"
+msgstr "Se connecter"
+
+#: views/poptin_admin_view.php:80 views/poptin_admin_view.php:111
+msgid "Sign up for free"
+msgstr "S’inscrire gratuitement"
+
+#: views/poptin_admin_view.php:8
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n’avez pas les droits suffisants pour accéder à cette page."
+
+#: views/poptin_admin_view.php:191
+msgid "Digital Marketers ♥ Poptin"
+msgstr "Les spécialistes du marketing digital ♥ Poptin"
